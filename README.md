@@ -24,7 +24,3 @@ Get ready to dive into the future of technology with our power-packed 7-day work
 📍 Hands-on Projects & Live Demos
 🎓 Certificate of Completion
 👨‍🏫 Expert Mentorship & Career Guidance
-
-💡 Limited Seats Available! Don’t miss this chance to build real-world IoT applications and enhance your tech career.
-
-📅 Reserve Your Spot Now! 
