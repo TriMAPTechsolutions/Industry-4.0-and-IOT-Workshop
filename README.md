@@ -7,7 +7,9 @@ Get ready to dive into the future of technology with our power-packed 7-day work
 
 🔥 What You’ll Learn:
 ✅ Day 1: Industry 4.0, Arduino basics, microcontrollers, and project demo
+
 ✅ Day 2: Digital I/O, transducers, M2M communication, LDR sensors
+
 ✅ Day 3: Libraries, object-oriented programming, DHT11, PWM, linear actuators
 ✅ Day 4: IoT introduction, ESP32, Ultrasonic sensors, buzzer integration
 ✅ Day 5: Cloud platforms (ThinkSpeak, Blynk, Arduino Cloud), IEEE, Adafruit, relays
