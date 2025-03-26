@@ -6,6 +6,7 @@
 Get ready to dive into the future of technology with our power-packed 7-day workshop on Industry 4.0, IoT, and Embedded Systems! Perfect for students, engineers, and tech enthusiasts looking to master Arduino, ESP32, Raspberry Pi, IoT platforms, and AI-powered automation.
 
 🔥 What You’ll Learn:
+
 ✅ Day 1: Industry 4.0, Arduino basics, microcontrollers, and project demo
 
 ✅ Day 2: Digital I/O, transducers, M2M communication, LDR sensors
