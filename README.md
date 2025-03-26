@@ -7,7 +7,7 @@ Get ready to dive into the future of technology with our power-packed 7-day work
 
 🔥 What You’ll Learn:
 
-✅ Day 1: Industry 4.0, Arduino basics, microcontrollers, and project demo
+✅ Day 1: Industry 4.0, Arduino basics, microcontrollers, and blink Demo
 
 ✅ Day 2: Digital I/O, transducers, M2M communication, LDR sensors
 
