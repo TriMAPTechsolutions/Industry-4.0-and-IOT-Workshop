@@ -11,9 +11,13 @@ Get ready to dive into the future of technology with our power-packed 7-day work
 ✅ Day 2: Digital I/O, transducers, M2M communication, LDR sensors
 
 ✅ Day 3: Libraries, object-oriented programming, DHT11, PWM, linear actuators
+
 ✅ Day 4: IoT introduction, ESP32, Ultrasonic sensors, buzzer integration
+
 ✅ Day 5: Cloud platforms (ThinkSpeak, Blynk, Arduino Cloud), IEEE, Adafruit, relays
+
 ✅ Day 6: Android app development (Kodular, Blynk, IR remote)
+
 ✅ Day 7: Raspberry Pi 5, project demo, research paper guidance, and career mentorship
 
 📍 Hands-on Projects & Live Demos
